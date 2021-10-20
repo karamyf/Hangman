@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634740204 source:c:\users\karam\desktop\hangman\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+
